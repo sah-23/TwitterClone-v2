@@ -1,5 +1,7 @@
 # Twitter Clone
 
+![Twitter Clone Screenshot](./assets/screenshot.png)
+
 This is a Twitter clone application built using **React**, **Next.js**, and **Prisma**. The app allows users to post tweets, follow others, and engage with a social media platform's core features. It's designed to replicate the basic functionality and UI of Twitter, providing an excellent example of full-stack development.
 
 [Live Demo](https://twitter-clone-v2-eta.vercel.app/)
