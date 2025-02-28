@@ -23,9 +23,7 @@ This is a Twitter clone application built using **React**, **Next.js**, and **Pr
 - **Styling:** Tailwind CSS (for modern, responsive UI design)
 - **Deployment:** Vercel (for both frontend and backend hosting)
 
-## Setup
 
-To run this project locally, follow the steps below:
 
 ### 1. Clone the Repository
 
